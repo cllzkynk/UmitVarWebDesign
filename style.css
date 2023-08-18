@@ -1,13 +1,17 @@
 #anabaslik {
   
     text-align: center;
-    color:blue;
+  
     font-size:5rem;
 
   }
 
 .baslik{
+  color:blue;
   text-transform: lowercase;
+}
+.baslik1{
+  color: chartreuse;
 }
 
 h1{
@@ -54,4 +58,9 @@ text-align: center;
  margin: 50px;
  
   padding: 50px;
+}
+
+
+iframe{
+  margin: 800px;
 }
