@@ -61,6 +61,21 @@ text-align: center;
 }
 
 
-iframe{
-  margin: 800px;
-}
+
+
+ .golvideosu{
+  display: flex;
+ }
+
+ .formkutulari{
+  margin: 0.5rem;
+  padding:  0.5rem;
+ }
+
+ form{
+  border: 2px solid #cccccc;
+ }
+
+ .iletisim{
+  display: flex;
+ }
