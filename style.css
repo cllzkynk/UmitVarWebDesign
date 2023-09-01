@@ -23,7 +23,7 @@ h1{
   margin-left: 90px;
   margin-right: 60px;
   font-size: 1.5rem;
-  color: brown;
+  color: rgb(46, 42, 165);
 }
 
 img{
@@ -79,3 +79,4 @@ text-align: center;
  .iletisim{
   display: flex;
  }
+
