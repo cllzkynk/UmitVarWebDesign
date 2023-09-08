@@ -80,3 +80,54 @@ text-align: center;
   display: flex;
  }
 
+
+ .menu{
+  background-color: rgb(84, 161, 189);
+  display: flex;
+text-align: auto;
+
+ }
+
+ .menuelement{
+  margin: 15px;
+  padding:  15px;
+font-style: italic;
+margin-right: 1%;
+
+ }
+
+.menuelement:hover {
+background-color: aquamarine;
+color: #d47070; 
+
+}
+
+
+
+ .galeri{
+  display: flex;
+
+ }
+
+
+ .linkedin:hover{
+  background-color: #1689e0;
+ }
+
+.elements{
+  display: flex;
+  align-items: center;
+  margin-left: 75%;
+
+}
+
+#young{
+  border-radius: 50%;
+}
+
+#player:hover{
+z-index: 110;
+ height: 650px;
+width: 650px;
+
+}
